@@ -19,3 +19,7 @@ A simple RESTful API built using Node.js and Express to manage a list of books (
 
 1. Clone this repo  
 2. Install dependencies:
+3.  Start the server:
+4.  Server runs at:  
+http://localhost:3000
+
